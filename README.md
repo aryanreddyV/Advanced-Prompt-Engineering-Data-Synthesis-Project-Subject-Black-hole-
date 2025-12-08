@@ -4,5 +4,5 @@ This repository contains a detailed academic research paper exploring the multif
 This research project contains of 215 pages including an index of concepts.
 To view the full research document, click the raw button when you open the file in this reposiroty. It will redirect you to Microsoft WORD...
 
-I did this research with the assistance of AI as a tool for refining grammar & to help me understand complex concepts. 
+I did this research with the assistance of AI as a tool for refining text & to help me understand complex concepts. 
 Thank you!
